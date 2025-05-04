@@ -1,0 +1,8 @@
+{
+    "targetChannelId": "CANAL ONDE A INTEREFACE SERA MOSTRADA",
+    "monitoredChannelId": "CANAL ONDE IRAR ESTA OS STAFFS DISPONIVEIS",
+    "supportChannelId": "CANAL AGUARDANDO STAFF(AGUARDANDO SUPORTE)", 
+    "bannerImage": "https/http",
+    "thumbnailIcon": "https/http",
+    "TOKEN": "TOKEN DO SEU BOT DISCORD"
+}
